@@ -1,0 +1,18 @@
+{
+  "name": "vue-class-component-example",
+  "version": "4.1.0",
+  "description": "vue-class-component example",
+  "main": "index.js",
+  "scripts": {
+    "example": "webpack",
+    "dev": "webpack --watch"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "ts-loader": "^0.9.5",
+    "typescript": "^2.0.6",
+    "vue": "^2.0.5",
+    "vue-class-component": "^4.1.0",
+    "webpack": "^2.1.0-beta.25"
+  }
+}
